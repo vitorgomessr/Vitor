@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vitor Gomes</h1>
 <h3 align="center">A passionate Full-Stack Developer from Brazil 🇧🇷</h3>
 
-<p align="left"> <a href="https://twitter.com/vitorgomessr" target="blank"><img src="https://img.shields.io/twitter/follow/vitorgomessr?logo=twitter&style=for-the-badge" alt="vitorgomessr" /></a> </p>
-
 - 📂 I’m currently working on **Hectae**
 
 - 🌱 I’m currently learning **React and React Native**
@@ -28,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitorgomessr&show_icons=true&locale=en&layout=compact" alt="vitorgomessr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vitorgomessr&show_icons=true&locale=en" alt="vitorgomessr" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorgomessr&" alt="vitorgomessr" /></p>
